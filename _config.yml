@@ -24,7 +24,7 @@ github_username:  joshmccray
 
 # Build settings
 markdown: kramdown
-theme: Bootstrap-Theme
+theme: bootstrap
 gems:
   - jekyll-feed
 exclude:
